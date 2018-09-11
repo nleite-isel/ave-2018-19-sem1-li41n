@@ -1,0 +1,28 @@
+Windows:
+==============================================================
+
+# C# compiler is "csc")
+# Compile Point.cs as a DLL assembly
+csc /t:library Point.cs
+
+# Compile TestPoint.cs as a EXE assembly and link it with Point.dll (/r is used to "reference")
+csc /r:Point.dll TestPoint.cs
+
+# IL Disassemler (ildasm)
+ildasm Point.dll
+ildasm Point.dll /out=dumpPoint.il
+
+
+Linux - Mono (C# compiler is the "Mono C# compiler" or "mcs"): 
+==============================================================
+
+# Compile Point.cs as a DLL assembly
+mcs /t:library Point.cs
+
+# Compile TestPoint.cs as a EXE assembly and link it with Point.dll (/r is used to "reference")
+mcs /r:Point.dll TestPoint.cs
+
+# IL Disassemler (ikdasm)
+ikdasm Point.dll
+ikdasm Point.dll > dumpPoint.il
+
