@@ -1,0 +1,24 @@
+C# compiler:
+
+csc /target:library A.cs   -> Produz A.dll
+ou:
+csc /t:library A.cs   -> Produz A.dll
+
+csc /t:exe A.cs   -> Produz A.exe
+
+csc /t:module A.cs   -> Produz A.netmodule
+
+csc /t:winexe A.cs   -> Produz A.exe (que usa GUI)
+
+
+IL disassembler
+
+ildasm A.dll  -> invoca GUI ildasm
+ildasm /text A.dll  -> imprime em console output
+ildasm /text A.dll > dump.txt    -> escreve em ficheiro
+
+
+IL assembler
+
+ilasm source.il  -> Assembla source.il produzindo assembly source.exe
+

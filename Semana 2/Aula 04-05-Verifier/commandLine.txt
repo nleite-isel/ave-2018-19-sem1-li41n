@@ -1,0 +1,8 @@
+
+
+// ILASM
+ilasm verify.il /out:hack1.exe
+
+
+// PEVerify
+peverify.exe hack1.exe

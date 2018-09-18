@@ -1,0 +1,37 @@
+Windows:
+==============================================================
+
+# 1. VB.NET Compiler command line
+vbc /t:module Shape.vb
+
+# 2. C#
+csc /addmodule:Shape.netmodule /t:library Rectangle.cs
+
+# 3. C++/CLI language compiler command line:
+cl /clr:safe Main.cpp
+
+
+
+# IL Disassemler (ildasm)
+ildasm Main.exe
+...
+
+
+
+Linux - Mono (C# compiler is the "Mono C# compiler" or "mcs"): 
+==============================================================
+
+# 1. VB.NET Compiler command line
+# vbnc /t:module Shape.vb
+# Compiling modules (-target:module) hasn't been implemented yet.
+
+# 2 . C#
+mcs /addmodule:Shape.netmodule /t:library Rectangle.cs
+
+# 3. There's no C++/CLI in Mono
+
+
+# IL Disassemler (ikdasm)
+ikdasm Main.exe
+...
+
