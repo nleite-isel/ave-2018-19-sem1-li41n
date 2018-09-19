@@ -1,0 +1,27 @@
+Windows:
+==============================================================
+
+# C# compiler is "csc")
+# Compile Ponto.cs as a DLL assembly
+csc /t:library Ponto.cs
+
+# Compile TestPonto.cs as a EXE assembly and link it with Point.dll (/r is used to "reference")
+csc /r:Ponto.dll TestPoint.cs
+
+# IL Disassemler (ildasm)
+ildasm Ponto.dll
+
+
+Linux - Mono (C# compiler is the "Mono C# compiler" or "mcs"): 
+==============================================================
+
+# Compile Ponto.cs as a DLL assembly
+mcs /t:library Ponto.cs
+
+# Compile TestPonto.cs as a EXE assembly and link it with Point.dll (/r is used to "reference")
+mcs /r:Ponto.dll TestPoint.cs
+
+# IL Disassemler (ikdasm)
+ikdasm Ponto.dll
+
+
