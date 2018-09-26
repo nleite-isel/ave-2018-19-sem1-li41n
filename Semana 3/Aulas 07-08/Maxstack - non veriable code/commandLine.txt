@@ -1,0 +1,10 @@
+
+
+// ILASM
+ilasm verify.il /out:teste.exe
+
+ildasm /text teste > dump.il
+
+
+// PEVerify
+peverify.exe teste.exe

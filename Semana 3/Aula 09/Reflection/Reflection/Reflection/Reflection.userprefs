@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Reflection.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventInfo/MyEvent.cs">
+    <Files>
+      <File FileName="Load.cs" Line="74" Column="27" />
+      <File FileName="PropertyInfo.cs" Line="49" Column="4" />
+      <File FileName="EventInfo/MyEvent.cs" Line="52" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
