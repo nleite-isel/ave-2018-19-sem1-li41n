@@ -1,0 +1,5 @@
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/bin/Debug/SomeTypeLibrary.dll.mdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/bin/Debug/SomeTypeLibrary.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/obj/x86/Debug/SomeTypeLibrary.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/obj/x86/Debug/SomeTypeLibrary.dll.mdb

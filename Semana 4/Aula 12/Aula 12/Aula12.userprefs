@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{611D92A9-9341-4B98-A4A6-EA64B5880A2E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SomeTypeLibrary/SomeTypeLibrary.cs">
+    <Files>
+      <File FileName="1 - Readonly e Constantes/Program.cs" Line="25" Column="1" />
+      <File FileName="SomeTypeLibrary/SomeTypeLibrary.cs" Line="11" Column="21" />
+      <File FileName="2 - Enum/client.cs" Line="7" Column="27" />
+      <File FileName="Enum/Enum.cs" Line="6" Column="14" />
+      <File FileName="2 - Enum/EnumFlags.cs" Line="18" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Aula_22012 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

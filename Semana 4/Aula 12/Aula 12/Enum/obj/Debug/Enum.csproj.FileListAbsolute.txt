@@ -1,0 +1,12 @@
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/Enum/bin/Debug/Enum.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/Enum/bin/Debug/Enum.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/Enum/obj/Debug/Enum.csprojResolveAssemblyReference.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/Enum/obj/Debug/Enum.csproj.CoreCompileInputs.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/Enum/obj/Debug/Enum.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/Enum/obj/Debug/Enum.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/Enum/bin/Debug/Enum.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/Enum/bin/Debug/Enum.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/Enum/obj/Debug/Enum.csprojResolveAssemblyReference.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/Enum/obj/Debug/Enum.csproj.CoreCompileInputs.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/Enum/obj/Debug/Enum.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/Enum/obj/Debug/Enum.pdb

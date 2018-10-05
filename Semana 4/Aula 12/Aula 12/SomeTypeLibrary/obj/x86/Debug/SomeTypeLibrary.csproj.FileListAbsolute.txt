@@ -1,0 +1,10 @@
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/bin/Debug/SomeTypeLibrary.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/bin/Debug/SomeTypeLibrary.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/obj/x86/Debug/SomeTypeLibrary.csproj.CoreCompileInputs.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/obj/x86/Debug/SomeTypeLibrary.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 17-18/Verao/AVE/LI43D/Aulas-Prep/Semana 4/Aulas 10-11/Aulas10-11/SomeTypeLibrary/obj/x86/Debug/SomeTypeLibrary.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/SomeTypeLibrary/bin/Debug/SomeTypeLibrary.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/SomeTypeLibrary/bin/Debug/SomeTypeLibrary.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/SomeTypeLibrary/obj/x86/Debug/SomeTypeLibrary.csproj.CoreCompileInputs.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/SomeTypeLibrary/obj/x86/Debug/SomeTypeLibrary.dll
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Inverno/AVE/LI41N/Aulas-Prep/Semana 4/Aula 12/Aula 12/SomeTypeLibrary/obj/x86/Debug/SomeTypeLibrary.pdb

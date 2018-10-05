@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{611D92A9-9341-4B98-A4A6-EA64B5880A2E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Aulas1011</RootNamespace>
+    <AssemblyName>Aulas10-11</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="1 - Readonly e Constantes\Program.cs" />
+    <Compile Include="2 - Enum\client.cs" />
+    <Compile Include="2 - Enum\EnumFlags.cs" />
+    <Compile Include="3 - initobj e newobj\Initobj_and_newobj.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="3 - initobj e newobj\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="SomeTypeLibrary\SomeTypeLibrary.csproj">
+      <Project>{9FC70488-05E7-4992-AC50-E12F58A20C25}</Project>
+      <Name>SomeTypeLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="Enum\Enum.csproj">
+      <Project>{728BD749-DB14-487B-BDE6-B2C0D1C35931}</Project>
+      <Name>Enum</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{AD226065-EA74-42E4-924B-4B3F539CF5B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reflection/4 - Custom Attributes/ObtainingAttributes.cs">
+    <Files>
+      <File FileName="Reflection/1 - Properties/Properties.cs" Line="42" Column="28" />
+      <File FileName="Reflection/1 - Properties/Properties_C#3.0.cs" Line="27" Column="27" />
+      <File FileName="Reflection/1 - Properties/Properties2.cs" Line="24" Column="26" />
+      <File FileName="Reflection/2 - PropertyInfo/PropertyInfo.cs" Line="56" Column="26" />
+      <File FileName="Reflection/3 - EventInfo/MyEvent.cs" Line="52" Column="27" />
+      <File FileName="Reflection/4 - Custom Attributes/Example.cs" Line="49" Column="13" />
+      <File FileName="Reflection/4 - Custom Attributes/ObtainingAttributes.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Reflection PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
