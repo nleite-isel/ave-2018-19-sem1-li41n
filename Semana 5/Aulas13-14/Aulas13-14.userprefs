@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7EC7CCAD-7075-4C3A-995B-1DD131EAF674}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2 - Box/BoxInterfacesValueTypes.cs">
+    <Files>
+      <File FileName="1 - Ref e Out/RefAndOut.cs" Line="29" Column="33" />
+      <File FileName="1 - Ref e Out/StringSwap.cs" Line="19" Column="27" />
+      <File FileName="2 - Box/Box.cs" Line="15" Column="33" />
+      <File FileName="2 - Box/BoxInterfacesValueTypes.cs" Line="10" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Aulas13-14 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
