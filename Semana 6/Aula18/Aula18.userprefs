@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DC85E361-3B65-4B59-957D-50ABC1AEEA4A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Aula18 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2 - Equals and GetHashCode/EqualsAndGetHashCode.cs">
+    <Files>
+      <File FileName="1 - Identity and Equality/Identity and Equality.cs" Line="13" Column="33" />
+      <File FileName="1 - Identity and Equality/Equals.cs" Line="97" Column="26" />
+      <File FileName="1 - Identity and Equality/opEquality.cs" Line="1" Column="1" />
+      <File FileName="2 - Equals and GetHashCode/EqualsAndGetHashCode.cs" Line="62" Column="25" />
+      <File FileName="2 - Equals and GetHashCode/HashCode.cs" Line="56" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
