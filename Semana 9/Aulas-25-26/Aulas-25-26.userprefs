@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{886D76E0-B6A8-4706-8AFD-06BB98786F95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NBench/NBench.cs">
+    <Files>
+      <File FileName="NBench/NBench.cs" Line="69" Column="11" />
+      <File FileName="NBench/StrJoins.cs" Line="1" Column="1" />
+      <File FileName="NBench/StrBench.cs" Line="68" Column="1" />
+      <File FileName="DelegateDemo.cs" Line="17" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Aulas-25-26 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

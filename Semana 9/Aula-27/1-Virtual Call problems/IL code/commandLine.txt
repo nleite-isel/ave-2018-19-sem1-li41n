@@ -1,0 +1,11 @@
+ildasm Aula-27.exe > VirtualCallRecursive.il
+
+Linux:
+ikdasm Aula-27.exe > VirtualCallRecursive.il
+
+
+ilasm VirtualCallRecursiveInfiniteLoop.il /out:VirtualCallRecursiveInfiniteLoop.exe
+
+
+Linux:
+mono VirtualCallRecursiveInfiniteLoop.exe
