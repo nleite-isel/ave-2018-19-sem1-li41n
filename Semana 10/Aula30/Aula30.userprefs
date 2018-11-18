@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{84D32B70-0319-442F-A23A-A386DD8D68C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2-Virtual-Call/VirtualCall1.cs">
+    <Files>
+      <File FileName="1-Virtual Call problems/VirtualCallRecursive.cs" Line="40" Column="33" />
+      <File FileName="2-Virtual-Call/VirtualCall.cs" Line="1" Column="1" />
+      <File FileName="2-Virtual-Call/VirtualCall1.cs" Line="32" Column="32" />
+      <File FileName="3-NewSlot-Example/NewSlot.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Aula30 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
