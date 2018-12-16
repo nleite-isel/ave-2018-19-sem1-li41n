@@ -22,7 +22,7 @@ namespace Aula33.Generics
             return o;
         }
 
-        public static void Main1() {
+        public static void Main() {
             // DictionaryStringKey<Guid> e' um tipo fechado (closed type)
             // DictionaryStringKey<Guid> deriva do tipo fechado Dictionary<String, Guid>
             DictionaryStringKey<Guid> d = new DictionaryStringKey<Guid>();

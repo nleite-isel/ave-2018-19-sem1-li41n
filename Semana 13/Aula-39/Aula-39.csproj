@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{C3F182D9-42B9-43F0-B475-6E38BA8E4B24}</ProjectGuid>
+    <ProjectGuid>{E412D026-8B82-4616-8D12-3DF3E4625702}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Aula36</RootNamespace>
-    <AssemblyName>Aula-36</AssemblyName>
+    <RootNamespace>Aula39</RootNamespace>
+    <AssemblyName>Aula-39</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -33,11 +33,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Generics\ArrayCastToIListGeneric.cs" />
+    <Compile Include="Generics\OpenAndCloseTypes.cs" />
     <Compile Include="Generics\Exercicio 01\Program.cs" />
     <Compile Include="Generics\Exercício 02 - Converter\Program.cs" />
-    <Compile Include="Generics\OpenAndCloseTypes.cs" />
-    <Compile Include="Generics\ArrayCastToIListGeneric.cs" />
     <Compile Include="nullable.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Generics\IL\dumpNullable.il" />
+    <None Include="Generics\IL\dumpNullableExample3.il" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

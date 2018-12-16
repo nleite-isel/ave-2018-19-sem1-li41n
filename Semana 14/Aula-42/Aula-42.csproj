@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{0BCD2F7F-F035-4730-AA4E-2A3D8EB389AA}</ProjectGuid>
+    <ProjectGuid>{974A92FC-ED21-4345-8E31-D396F663CBB8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Aulas3132</RootNamespace>
-    <AssemblyName>Aulas-31-32</AssemblyName>
+    <RootNamespace>Aula42</RootNamespace>
+    <AssemblyName>Aula-42</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -30,17 +30,20 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Delegates\Demos\Demo 03\AnonymousDelegate.cs" />
-    <Compile Include="Delegates\Demos\Demo 03\Del1.cs" />
-    <Compile Include="Delegates\Demos\Demo 03\Del2.cs" />
-    <Compile Include="Delegates\Demos\Demo 03\Del3.cs" />
-    <Compile Include="Delegates\Demos\Demo 03\Del4.cs" />
-    <Compile Include="Delegates\Demos\Demo 04\Variance.cs" />
-    <Compile Include="Delegates\Demos\Demo 03\InvocationList.cs" />
+    <Compile Include="Enumeradores e Linq\AlgorithmsWithIterators\Program.cs" />
+    <Compile Include="Enumeradores e Linq\ContextCapture\ContextCapture.cs" />
+    <Compile Include="Enumeradores e Linq\DirectoryEnumerator\Program.cs" />
+    <Compile Include="Enumeradores e Linq\ExtensionMethods\ExtensionMethods.cs" />
+    <Compile Include="Enumeradores e Linq\ExtensionMethods\Program.cs" />
+    <Compile Include="Enumeradores e Linq\LINQ\CustomersLINQ.cs" />
+    <Compile Include="Enumeradores e Linq\LINQ\CustomersWithoutLINQ.cs" />
+    <Compile Include="Enumeradores e Linq\LINQ\ExtensionMethods.cs" />
+    <Compile Include="Enumeradores lazy\EnumeratorsEager.cs" />
+    <Compile Include="Enumeradores lazy\EnumeratorsLazy.cs" />
+    <Compile Include="Enumeradores lazy\EnumeratorsLazyYield.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

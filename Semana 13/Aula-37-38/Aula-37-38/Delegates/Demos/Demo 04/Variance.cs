@@ -6,15 +6,15 @@ public class Bike : Vehicle { /* ... */ }
 public class Bike1 : Bike {}
 public class Bike2 : Bike { }
 
-delegate Vehicle DelegateA();
-delegate void DelegateB(Bike b);
+delegate Vehicle DelegateA(); // Co-variancia
+delegate void DelegateB(Bike b); // Contra-variancia
 
 public static class Examples {
     public static Car MethodA() { /* ... */ return new Car(); }
-    public static void MethodB(object v) { /* ... */ }  // OK
+    //public static void MethodB(object v) { /* ... */ }  // OK
 
     //public static void MethodB(Vehicle v) { /* ... */ }  // OK
-    //public static void MethodB(Bike b) { /* ... */ } // OK
+    public static void MethodB(Bike b) { /* ... */ } // OK
     //public static void MethodB(Bike1 b) { /* ... */ } // Error, No overload for 'MethodB' matches 'DelegateB'
      //Se fosse possivel associar este metodo, usando DelegateB posso passar Bike ou qualquer subtipo (Bike1, Bike2). No caso de passar Bike2, iria falhar 
     // porque MethodB recebe Bike1. Assim, apena é possível associar MethodB(Bike) ou com parametro mais geral, e.g. MethodB(Vehicle).
